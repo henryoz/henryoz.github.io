@@ -3,7 +3,7 @@ title: Henry Oz
 email: henry@osadzinski.co.uk
 url: https://henryoz.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Code - Design - IA & UX"
+skills: "Code - Design - IA - UX"
 meta_author: Osadinski Henry
 
 # Google webmaster tools
@@ -24,15 +24,15 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 50ABBF #80B3FF
+  primary-rgb: "80,171,191" #"128,179,255"
+  secondary: 400C1A #FD6E8A
+  secondary-dark: 0D2673 #A2122F
 
 # Footer settings
 footer:
   copyright: Henry Osadzinski
-  location: Bristol
+  location: Location
   social: Links
   credits: Credit
 
@@ -40,8 +40,6 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/hen_dubz
-  - title: facebook
-    url:
   - title: github
     url: http://github.com/henryoz
 
