@@ -1,55 +1,12 @@
 # Site settings
-title: Henry Oz
-email: henry@osadzinski.co.uk
-url: https://henryoz.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Code - Design - IA - UX"
-meta_author: Osadinski Henry
+title:
+email:
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 50ABBF #80B3FF
-  primary-rgb: "80,171,191" #"128,179,255"
-  secondary: 400C1A #FD6E8A
-  secondary-dark: 0D2673 #A2122F
-
-# Footer settings
-footer:
-  copyright: Henry Osadzinski
-  location: Location
-  social: Links
-  credits: Credit
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/hen_dubz
-  - title: github
-    url: http://github.com/henryoz
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Bristol, UK
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
-permalink: pretty
