@@ -1,0 +1,12 @@
+---
+layout: front
+modal-id: 3
+title: Repertory Grids
+img: grid.jpg
+alt: A rare repertory grid seen outside of its natural habitat.
+source: http://2014.uxbristol.org.uk/summary-repertory-grids-as-a-ux-research-tool/
+sourcename: UX Bristol session summary
+description: Towards the end of my MSc, I was invited to present on my work on Repertory Grids alongside my tutor, <a href="https://twitter.com/paulusm" target="_blank">Paul Matthews</a>. My research focused on the use of repertory grids as  tool for structuring user research conversations and findings in a way that's enjoyable and easy for subjects to get into. The system can also be extremely flexible but does take skill and practice on the part of the researcher in order to succeed.
+description2: The session itself aimed to introduce repertory grids to attendees and provide an example for how they can be used in breaking down and evaluating website and app heuristics. We also briefly covered tools for visualising and analysing grid data, to provide a smoother workflow for integrating the grids into standard user research.
+
+---

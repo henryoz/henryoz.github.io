@@ -9,7 +9,7 @@ body {
 }
 
 hr {
-    border-color: $theme-primary;
+    border-color: $theme-secondary;
     border-width: 3px;
     max-width: 50px;
 }
@@ -23,8 +23,12 @@ a {
     color: $theme-primary;
     &:hover,
     &:focus {
-        color: darken($theme-primary, 10%);
+        color: darken($theme-secondary, 10%);
     }
+}
+
+a.icon-link {
+    color: $theme-secondary;
 }
 
 h1,
@@ -99,7 +103,7 @@ aside {
             &.active {
                 > a,
                 > a:focus {
-                    color: $theme-primary !important;
+                    color: $theme-secondary !important;
                     background-color: transparent;
                     &:hover {
                         background-color: transparent;
@@ -286,7 +290,7 @@ header {
 
 // Bootstrap Overrides
 .text-primary {
-    color: $theme-primary;
+    color: $theme-secondary;
 }
 
 .no-gutter > [class*='col-'] {
@@ -349,3 +353,54 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+.portfolio-modal .modal-content {
+        padding: 100px 0;
+        min-height: 100%;
+  
+    }
+    
+.portfolio-modal .modal-content h2 {
+        margin: 0;
+        font-size: 3em;
+    }
+    
+.portfolio-modal .modal-content img {
+        margin-bottom: 30px;
+    }
+    
+.portfolio-modal .modal-content .item-details {
+        margin: 30px 0;
+    }
+    
+.portfolio-modal .close-modal {
+        position: absolute;
+        top: 25px;
+  
+    }
+    
+.portfolio-modal .close-modal:hover {
+        opacity: .3;
+    }
+    
+.portfolio-modal .close-modal .lr {
+        z-index: 1051;
+        width: 1px;
+  
+    }
+    
+.portfolio-modal .close-modal .lr .rl {
+        z-index: 1052;
+        width: 1px;
+  
+    }
+    
+    /* Fix modal mouse wheel issues */
+    /* https://github.com/twbs/bootstrap/issues/16297 */
+.modal.fade.in {
+        transform: translateZ(0);
+        -webkit-transform: translateZ(0);
+}
+
+.link-contrast {
+    color: $theme-secondary;
+}

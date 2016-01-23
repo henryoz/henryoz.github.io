@@ -1,0 +1,11 @@
+---
+layout: front
+modal-id: 1
+img: witty.png
+title: Twitter Bots
+alt: The limits of my bot are the limits of my Digital Ocean credit...
+source: https://github.com/henryoz/wittybot
+sourcename: Bad Wittgenstein on GitHub
+description: I love web development because it feels like being a modern-day toymaker. Twitter bots are a perfect expression of that feeling. My inspiration comes from <a href="http://twitter.com/tinysubversions" target="_blank">Darius Kazemi</a>, who showed me that Twitter bots can be used for good, evil, or just plain fun. They really are the perfect way to play with simple concepts and turn repetitive processes into art. 
+description2: My favourite bot is <a href="http://twitter.com/badwittgenstein" target="_blank">Bad Wittgenstein</a>, who I created using the <a href="http://developer.wordnik.com/" target="_blank">Wordnik API</a> to tweet a new logical fallacy every 30 minutes. Other successful bots of mine are <a href="http://twitter.com/henry_ebooks">@henry_ebooks</a>, who generates new tweets based on my own Twitter feed via Markov chains, and <a href="https://twitter.com/regina_plastic/with_replies" target="_blank">@regina_plastic</a> who I briefly used to take a Mean Girls joke to its logical conclusion.
+---

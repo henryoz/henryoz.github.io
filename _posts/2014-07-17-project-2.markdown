@@ -1,0 +1,11 @@
+---
+layout: front
+modal-id: 2
+img: ipsum.jpg
+title: ipsumIpsum
+alt: Say anything. Repeatedly!
+source: https://github.com/henryoz/ipsumipsum
+sourcename: ipsumIpsum on GitHub
+description: Currently a work in progress, ipsumIpsum is a Lorem Ipsum generator generator (repetitive, I know!). While in most cases when you're working to a brief where content comes first, it's still often useful to throw together mockups with ipsum text to see what you're working with. I tend to flit between different text generators like <a href="http://tinaipsum.rocks/" target="_blank">Tina Ipsum</a> or <a href="http://www.picksumipsum.co.uk/" target="_blank">Piksum Ipsum</a> but I wanted to write my own. ipsumIpsum takes this one step further by allowing the user to enter in their own batch of text like their favourite movie quotes, lines heard around the office etc. and turn them into a working, reusable generator.
+description2: The app is being built in <a href="https://www.meteor.com/" target="_blank">Meteor</a> which, while not really enterprise-level production ready, is a really fun framework for prototyping and throwing together silly ideas like this. I enjoy it because of its freeform structure and easy package management. It lets me quickly focus on what I'm trying to achieve rather than having to wrangle everything into place.
+---
