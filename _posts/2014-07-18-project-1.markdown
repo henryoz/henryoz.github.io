@@ -2,7 +2,7 @@
 layout: front
 modal-id: 1
 img: witty.png
-title: Twitter Bots
+title: Twitter Bots - internet toys
 alt: The limits of my bot are the limits of my Digital Ocean credit...
 source: https://github.com/henryoz/wittybot
 sourcename: Bad Wittgenstein on GitHub

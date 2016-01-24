@@ -2,10 +2,10 @@
 layout: front
 modal-id: 4
 title: Sneezy - a Pebble app for hayfever sufferers
-img: game.png
+img: pebble.jpg
 alt: WomW (What's on my wrist)
 description: I have hayfever and it really sucks. Every Summer, the world bursts into beautiful technicolour, the sun comes out, and my head swells up to three times its normal size. To prevent nasty surprises, I wrote Sneezy, a (currently) personal Pebble watch app to grab the pollen count via <a href="https://market.mashape.com/pollencheck/pollencheck" target="_blank">PollenCheck API</a> and allow me to check whether the count over the next three days is going to be high or not. If it is, then I know to dose up on antihistamine and avoid outdoor activity.
-description2: Currently, Sneezy only works for Bristol and is only available to me. Ahead of this Summer, I have plans to extend Sneezy's functionality to check user-determined locations and integrate with Pebble's latest Timeline feature to provide more up-to-date alerts on fellow sufferers' wrists.
+description2: Currently, Sneezy only works for Bristol and is only available to me. Ahead of Summer 2016, I have plans to extend Sneezy's functionality to check user-determined locations and integrate with Pebble's latest Timeline feature to provide more up-to-date alerts on fellow sufferers' wrists.
 source: https://github.com/henryoz/sneezy
 sourcename: Sneezy on GitHub
 ---

@@ -1,7 +1,7 @@
 ---
 layout: front
 modal-id: 3
-title: Repertory Grids
+title: Repertory Grids - MSc thesis &amp; workshop
 img: grid.jpg
 alt: A rare repertory grid seen outside of its natural habitat.
 source: http://2014.uxbristol.org.uk/summary-repertory-grids-as-a-ux-research-tool/

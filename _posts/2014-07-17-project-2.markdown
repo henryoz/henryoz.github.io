@@ -2,7 +2,7 @@
 layout: front
 modal-id: 2
 img: ipsum.jpg
-title: ipsumIpsum
+title: ipsumIpsum - we heard you like ipsum generators
 alt: Say anything. Repeatedly!
 source: https://github.com/henryoz/ipsumipsum
 sourcename: ipsumIpsum on GitHub
